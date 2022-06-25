@@ -20,6 +20,10 @@ Steps to reproduce the behavior:
 ### 1.2 Source Material
 Video, Screenshot, Combatlog, Clip, etc...
 
+### 1.3 Game Version:
+
+e.g. 3.4.0 Build 44301
+
 ## 2. Expected behavior
 A clear and concise description of what you expected to happen.
 
