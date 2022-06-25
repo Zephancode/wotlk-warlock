@@ -1,20 +1,20 @@
 ---
-name: SomeChanges suggestion
-about: Suggest an change for warlocks
+name: SomeChanges Suggestion
+about: Suggest changes for warlocks
 title: "[SomeChanges]"
 labels: somechanges
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
+## 1. Is your feature request related to a problem? Please describe.
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
-**Describe the solution you'd like**
+### 1.1 Describe the solution you'd like
 A clear and concise description of what you want to happen.
 
-**Describe alternatives you've considered**
+### 1.2 Describe alternatives you've considered
 A clear and concise description of any alternative solutions or features you've considered.
 
-**Additional context**
+### 1.3 Additional context
 Add any other context or screenshots about the feature request here.
